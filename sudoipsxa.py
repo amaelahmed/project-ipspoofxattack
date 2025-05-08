@@ -27,7 +27,7 @@ def banner():
                    IP Spoofing & Traffic Generation Toolkit
 :: Disclaimer: Developers assume no liability and are not responsible for any misuse or damage caused by ipsxa ::
 :: Only use for educational purposes!!                                                   ::
-:: Created by amaelahmed
+:: Developer/amaelahmed
 """ + RESET)
     time.sleep(2)
 
