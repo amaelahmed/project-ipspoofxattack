@@ -1,5 +1,7 @@
 Project IPSpoofX Attack
 
+NOTE: THIS IS AN EXTREMELY DANGEROUS TOOL,USE IT IN YOUR OWN LAB!
+
 A terminal-based tool for demonstrating IP spoofing techniques and accessing unauthorized network traffic. Built for use in controlled environments such as cybersecurity workshops or network defense training labs.
 
 ⚠️ Legal Use Only
