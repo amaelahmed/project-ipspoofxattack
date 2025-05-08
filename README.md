@@ -1,5 +1,7 @@
 Project IPSpoofX Attack
 
+NOTE: THIS IS AN EXTREMELY DANGEROUS TOOL,USE IT IN YOUR OWN LAB!
+
 A terminal-based tool for demonstrating IP spoofing techniques and accessing unauthorized network traffic. Built for use in controlled environments such as cybersecurity workshops or network defense training labs.
 
 ⚠️ Legal Use Only
@@ -25,3 +27,14 @@ Linux terminal recommended (tested on Kali)
 git clone https://github.com/amaelahmed/project-ipspoofxattack.git
 cd project-ipspoofxattack
 sudo python3 ipsxa.py
+
+## 🧠 Developer
+
+**Developed by** [amaelahmed](https://github.com/amaelahmed)  
+Feel free to open issues or contribute to the repository!
+
+---
+
+## 🔒 Note
+
+Use responsibly. Ensure proper authorization before deploying in any network environment.
