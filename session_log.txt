@@ -1,0 +1,9 @@
+Session Log - Spoofed Origin: l
+Timestamp: 2025-05-08 15:50:07
+[paypal.com] 2823 requests from l
+[facebook.com] 6346 requests from l
+[bankofamerica.com] 4371 requests from l
+[irs.gov] 2576 requests from l
+[who.int] 3369 requests from l
+[worldbank.org] 1112 requests from l
+[un.org] 5857 requests from l
