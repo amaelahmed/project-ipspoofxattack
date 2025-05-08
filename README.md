@@ -25,3 +25,14 @@ Linux terminal recommended (tested on Kali)
 git clone https://github.com/amaelahmed/project-ipspoofxattack.git
 cd project-ipspoofxattack
 sudo python3 ipsxa.py
+
+## 🧠 Developer
+
+**Developed by** [amaelahmed](https://github.com/amaelahmed)  
+Feel free to open issues or contribute to the repository!
+
+---
+
+## 🔒 Note
+
+Use responsibly. Ensure proper authorization before deploying in any network environment.
